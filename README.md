@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="MyDIC 2.1 - Digital Innovation Club" width="100%" />
+<img src="assets/banner2.svg" alt="MyDIC 2.1 - Digital Innovation Club" width="100%" />
 
 <br />
 
